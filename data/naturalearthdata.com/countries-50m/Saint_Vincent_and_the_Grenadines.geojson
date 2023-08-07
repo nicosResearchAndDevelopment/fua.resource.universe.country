@@ -1,0 +1,318 @@
+{
+	"type": "Feature",
+	"geometry": {
+		"bbox": [
+			-61.35351562500001,
+			12.694726562499994,
+			-61.1240234375,
+			13.358740234374991
+		],
+		"type": "MultiPolygon",
+		"coordinates": [
+			[
+				[
+					[
+						-61.174511718750004,
+						13.158105468749994
+					],
+					[
+						-61.20390624999999,
+						13.142285156249997
+					],
+					[
+						-61.277294921875004,
+						13.209570312499991
+					],
+					[
+						-61.268457031249994,
+						13.287695312499991
+					],
+					[
+						-61.224072265625,
+						13.330664062499991
+					],
+					[
+						-61.18212890625,
+						13.35595703125
+					],
+					[
+						-61.13896484374999,
+						13.358740234374991
+					],
+					[
+						-61.1240234375,
+						13.294042968749991
+					],
+					[
+						-61.13452148437499,
+						13.202880859375
+					],
+					[
+						-61.174511718750004,
+						13.158105468749994
+					]
+				]
+			],
+			[
+				[
+					[
+						-61.226220703124994,
+						12.99462890625
+					],
+					[
+						-61.24223632812498,
+						12.983691406249989
+					],
+					[
+						-61.23471679687499,
+						12.983691406249989
+					],
+					[
+						-61.24223632812498,
+						12.976269531249997
+					],
+					[
+						-61.24726562499999,
+						12.983642578125
+					],
+					[
+						-61.25522460937499,
+						12.988183593749994
+					],
+					[
+						-61.265332031250004,
+						12.990185546874997
+					],
+					[
+						-61.27695312499999,
+						12.989892578124994
+					],
+					[
+						-61.27695312499999,
+						12.997363281249989
+					],
+					[
+						-61.262060546874984,
+						12.992773437499991
+					],
+					[
+						-61.23935546875,
+						12.997265624999997
+					],
+					[
+						-61.23925781250001,
+						13.00537109375
+					],
+					[
+						-61.24594726562499,
+						13.0126953125
+					],
+					[
+						-61.2490234375,
+						13.017822265625
+					],
+					[
+						-61.240624999999994,
+						13.025732421874991
+					],
+					[
+						-61.212841796875,
+						13.043261718749989
+					],
+					[
+						-61.201171875,
+						13.052539062499989
+					],
+					[
+						-61.1998046875,
+						13.048730468749994
+					],
+					[
+						-61.199316406249984,
+						13.045117187499997
+					],
+					[
+						-61.19794921874999,
+						13.041699218749997
+					],
+					[
+						-61.193749999999994,
+						13.038281249999997
+					],
+					[
+						-61.20805664062499,
+						13.024707031249989
+					],
+					[
+						-61.226220703124994,
+						12.99462890625
+					]
+				]
+			],
+			[
+				[
+					[
+						-61.334375,
+						12.695214843749994
+					],
+					[
+						-61.34453124999999,
+						12.694726562499994
+					],
+					[
+						-61.35351562500001,
+						12.698144531249994
+					],
+					[
+						-61.35112304687499,
+						12.701171875
+					],
+					[
+						-61.339746093749994,
+						12.70361328125
+					],
+					[
+						-61.334423828125004,
+						12.710205078125
+					],
+					[
+						-61.336328124999994,
+						12.71904296874999
+					],
+					[
+						-61.33583984375,
+						12.728808593749989
+					],
+					[
+						-61.326806640625,
+						12.734814453124997
+					],
+					[
+						-61.31987304687499,
+						12.735449218749991
+					],
+					[
+						-61.316796875,
+						12.731689453125
+					],
+					[
+						-61.31484374999999,
+						12.722558593749994
+					],
+					[
+						-61.32011718749999,
+						12.715527343749997
+					],
+					[
+						-61.32592773437501,
+						12.709863281249994
+					],
+					[
+						-61.328808593750004,
+						12.701123046874999
+					],
+					[
+						-61.334375,
+						12.695214843749994
+					]
+				]
+			]
+		]
+	},
+	"properties": {
+		"featurecla": "Admin-0 country",
+		"scalerank": 1,
+		"LABELRANK": 6,
+		"SOVEREIGNT": "Saint Vincent and the Grenadines",
+		"SOV_A3": "VCT",
+		"ADM0_DIF": 0,
+		"LEVEL": 2,
+		"TYPE": "Sovereign country",
+		"ADMIN": "Saint Vincent and the Grenadines",
+		"ADM0_A3": "VCT",
+		"GEOU_DIF": 0,
+		"GEOUNIT": "Saint Vincent and the Grenadines",
+		"GU_A3": "VCT",
+		"SU_DIF": 0,
+		"SUBUNIT": "Saint Vincent and the Grenadines",
+		"SU_A3": "VCT",
+		"BRK_DIFF": 0,
+		"NAME": "St. Vin. and Gren.",
+		"NAME_LONG": "Saint Vincent and the Grenadines",
+		"BRK_A3": "VCT",
+		"BRK_NAME": "St. Vin. and Gren.",
+		"BRK_GROUP": "",
+		"ABBREV": "St.V.G.",
+		"POSTAL": "VC",
+		"FORMAL_EN": "Saint Vincent and the Grenadines",
+		"FORMAL_FR": "",
+		"NAME_CIAWF": "Saint Vincent and the Grenadines",
+		"NOTE_ADM0": "",
+		"NOTE_BRK": "",
+		"NAME_SORT": "St. Vincent and the Grenadines",
+		"NAME_ALT": "",
+		"MAPCOLOR7": 1,
+		"MAPCOLOR8": 1,
+		"MAPCOLOR9": 5,
+		"MAPCOLOR13": 7,
+		"POP_EST": 102089,
+		"POP_RANK": 9,
+		"GDP_MD_EST": 1241,
+		"POP_YEAR": 2017,
+		"LASTCENSUS": 2011,
+		"GDP_YEAR": 2016,
+		"ECONOMY": "6. Developing region",
+		"INCOME_GRP": "3. Upper middle income",
+		"WIKIPEDIA": -99,
+		"FIPS_10_": "VC",
+		"ISO_A2": "VC",
+		"ISO_A3": "VCT",
+		"ISO_A3_EH": "VCT",
+		"ISO_N3": "670",
+		"UN_A3": "670",
+		"WB_A2": "VC",
+		"WB_A3": "VCT",
+		"WOE_ID": 23424981,
+		"WOE_ID_EH": 23424981,
+		"WOE_NOTE": "Exact WOE match as country",
+		"ADM0_A3_IS": "VCT",
+		"ADM0_A3_US": "VCT",
+		"ADM0_A3_UN": -99,
+		"ADM0_A3_WB": -99,
+		"CONTINENT": "North America",
+		"REGION_UN": "Americas",
+		"SUBREGION": "Caribbean",
+		"REGION_WB": "Latin America & Caribbean",
+		"NAME_LEN": 18,
+		"LONG_LEN": 32,
+		"ABBREV_LEN": 7,
+		"TINY": -99,
+		"HOMEPART": 1,
+		"MIN_ZOOM": 0,
+		"MIN_LABEL": 5,
+		"MAX_LABEL": 10,
+		"NE_ID": 1159321409,
+		"WIKIDATAID": "Q757",
+		"NAME_AR": "سانت فينسنت والغرينادين",
+		"NAME_BN": "সেন্ট ভিনসেন্ট ও গ্রেনাডাইন দ্বীপপুঞ্জ",
+		"NAME_DE": "St. Vincent und die Grenadinen",
+		"NAME_EN": "Saint Vincent and the Grenadines",
+		"NAME_ES": "San Vicente y las Granadinas",
+		"NAME_FR": "Saint-Vincent-et-les-Grenadines",
+		"NAME_EL": "Άγιος Βικέντιος και Γρεναδίνες",
+		"NAME_HI": "सन्त विन्सेण्ट और ग्रेनाडाइन्स",
+		"NAME_HU": "Saint Vincent és a Grenadine-szigetek",
+		"NAME_ID": "Saint Vincent dan Grenadines",
+		"NAME_IT": "Saint Vincent e Grenadine",
+		"NAME_JA": "セントビンセント・グレナディーン",
+		"NAME_KO": "세인트빈센트 그레나딘",
+		"NAME_NL": "Saint Vincent en de Grenadines",
+		"NAME_PL": "Saint Vincent i Grenadyny",
+		"NAME_PT": "São Vicente e Granadinas",
+		"NAME_RU": "Сент-Винсент и Гренадины",
+		"NAME_SV": "Saint Vincent och Grenadinerna",
+		"NAME_TR": "Saint Vincent ve Grenadinler",
+		"NAME_VI": "Saint Vincent và Grenadines",
+		"NAME_ZH": "圣文森特和格林纳丁斯"
+	}
+}

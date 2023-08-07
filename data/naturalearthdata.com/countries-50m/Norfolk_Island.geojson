@@ -1,0 +1,216 @@
+{
+	"type": "Feature",
+	"geometry": {
+		"bbox": [
+			167.90615234375002,
+			-29.096289062500002,
+			167.9904296875,
+			-29.013964843750003
+		],
+		"type": "Polygon",
+		"coordinates": [
+			[
+				[
+					167.939453125,
+					-29.01767578125001
+				],
+				[
+					167.95976562500007,
+					-29.0283203125
+				],
+				[
+					167.97812500000003,
+					-29.034277343750002
+				],
+				[
+					167.9904296875,
+					-29.042089843750006
+				],
+				[
+					167.98867187500002,
+					-29.058984375000005
+				],
+				[
+					167.97900390625,
+					-29.07568359375
+				],
+				[
+					167.96767578125002,
+					-29.082812500000006
+				],
+				[
+					167.96416015625005,
+					-29.085351562500012
+				],
+				[
+					167.9619140625,
+					-29.08847656250001
+				],
+				[
+					167.96064453125,
+					-29.09218750000001
+				],
+				[
+					167.96074218750005,
+					-29.096289062500002
+				],
+				[
+					167.95468750000003,
+					-29.08212890625001
+				],
+				[
+					167.94443359375003,
+					-29.072949218750015
+				],
+				[
+					167.9337890625,
+					-29.07216796875001
+				],
+				[
+					167.92656250000005,
+					-29.082812500000006
+				],
+				[
+					167.92041015625,
+					-29.082812500000006
+				],
+				[
+					167.91826171875005,
+					-29.07187500000001
+				],
+				[
+					167.9142578125,
+					-29.06191406250001
+				],
+				[
+					167.91240234375005,
+					-29.05283203125001
+				],
+				[
+					167.91640625000002,
+					-29.045117187500015
+				],
+				[
+					167.9240234375,
+					-29.03583984375001
+				],
+				[
+					167.92460937500005,
+					-29.02851562500001
+				],
+				[
+					167.91855468750003,
+					-29.025097656250015
+				],
+				[
+					167.90615234375002,
+					-29.028125000000003
+				],
+				[
+					167.92060546875,
+					-29.013964843750003
+				],
+				[
+					167.939453125,
+					-29.01767578125001
+				]
+			]
+		]
+	},
+	"properties": {
+		"featurecla": "Admin-0 country",
+		"scalerank": 5,
+		"LABELRANK": 5,
+		"SOVEREIGNT": "Australia",
+		"SOV_A3": "AU1",
+		"ADM0_DIF": 1,
+		"LEVEL": 2,
+		"TYPE": "Dependency",
+		"ADMIN": "Norfolk Island",
+		"ADM0_A3": "NFK",
+		"GEOU_DIF": 0,
+		"GEOUNIT": "Norfolk Island",
+		"GU_A3": "NFK",
+		"SU_DIF": 0,
+		"SUBUNIT": "Norfolk Island",
+		"SU_A3": "NFK",
+		"BRK_DIFF": 0,
+		"NAME": "Norfolk Island",
+		"NAME_LONG": "Norfolk Island",
+		"BRK_A3": "NFK",
+		"BRK_NAME": "Norfolk Island",
+		"BRK_GROUP": "",
+		"ABBREV": "Nfk. I.",
+		"POSTAL": "NF",
+		"FORMAL_EN": "Territory of Norfolk Island",
+		"FORMAL_FR": "",
+		"NAME_CIAWF": "Norfolk Island",
+		"NOTE_ADM0": "Auz.",
+		"NOTE_BRK": "",
+		"NAME_SORT": "Norfolk Island",
+		"NAME_ALT": "",
+		"MAPCOLOR7": 1,
+		"MAPCOLOR8": 2,
+		"MAPCOLOR9": 2,
+		"MAPCOLOR13": 7,
+		"POP_EST": 2210,
+		"POP_RANK": 4,
+		"GDP_MD_EST": 33.15,
+		"POP_YEAR": 2014,
+		"LASTCENSUS": -99,
+		"GDP_YEAR": 2016,
+		"ECONOMY": "6. Developing region",
+		"INCOME_GRP": "4. Lower middle income",
+		"WIKIPEDIA": -99,
+		"FIPS_10_": "NF",
+		"ISO_A2": "NF",
+		"ISO_A3": "NFK",
+		"ISO_A3_EH": "NFK",
+		"ISO_N3": "574",
+		"UN_A3": "574",
+		"WB_A2": "-99",
+		"WB_A3": "-99",
+		"WOE_ID": 23424905,
+		"WOE_ID_EH": 23424905,
+		"WOE_NOTE": "Exact WOE match as country",
+		"ADM0_A3_IS": "NFK",
+		"ADM0_A3_US": "NFK",
+		"ADM0_A3_UN": -99,
+		"ADM0_A3_WB": -99,
+		"CONTINENT": "Oceania",
+		"REGION_UN": "Oceania",
+		"SUBREGION": "Australia and New Zealand",
+		"REGION_WB": "East Asia & Pacific",
+		"NAME_LEN": 14,
+		"LONG_LEN": 14,
+		"ABBREV_LEN": 7,
+		"TINY": -99,
+		"HOMEPART": -99,
+		"MIN_ZOOM": 0,
+		"MIN_LABEL": 4.5,
+		"MAX_LABEL": 9.5,
+		"NE_ID": 1159320365,
+		"WIKIDATAID": "Q31057",
+		"NAME_AR": "جزيرة نورفولك",
+		"NAME_BN": "নরফোক দ্বীপ",
+		"NAME_DE": "Norfolk Island",
+		"NAME_EN": "Norfolk Island",
+		"NAME_ES": "Isla Norfolk",
+		"NAME_FR": "île Norfolk",
+		"NAME_EL": "Νόρφολκ",
+		"NAME_HI": "नॉर्फ़ोक द्वीप",
+		"NAME_HU": "Norfolk-sziget",
+		"NAME_ID": "Pulau Norfolk",
+		"NAME_IT": "Isola Norfolk",
+		"NAME_JA": "ノーフォーク島",
+		"NAME_KO": "노퍽 섬",
+		"NAME_NL": "Norfolk",
+		"NAME_PL": "Norfolk",
+		"NAME_PT": "Ilha Norfolk",
+		"NAME_RU": "Норфолк",
+		"NAME_SV": "Norfolkön",
+		"NAME_TR": "Norfolk Adası",
+		"NAME_VI": "Đảo Norfolk",
+		"NAME_ZH": "诺福克岛"
+	}
+}

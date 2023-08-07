@@ -1,0 +1,198 @@
+{
+	"type": "Feature",
+	"geometry": {
+		"bbox": [
+			-62.84047851562499,
+			17.1005859375,
+			-62.5322265625,
+			17.402587890625
+		],
+		"type": "MultiPolygon",
+		"coordinates": [
+			[
+				[
+					[
+						-62.5322265625,
+						17.121875000000003
+					],
+					[
+						-62.582421875,
+						17.1005859375
+					],
+					[
+						-62.62490234374999,
+						17.129589843749997
+					],
+					[
+						-62.61528320312499,
+						17.199121093749994
+					],
+					[
+						-62.57470703125001,
+						17.20102539062499
+					],
+					[
+						-62.5341796875,
+						17.170117187499997
+					],
+					[
+						-62.5322265625,
+						17.121875000000003
+					]
+				]
+			],
+			[
+				[
+					[
+						-62.63066406249999,
+						17.239990234375
+					],
+					[
+						-62.65649414062501,
+						17.224414062500003
+					],
+					[
+						-62.70200195312499,
+						17.286035156249994
+					],
+					[
+						-62.775537109375,
+						17.30283203124999
+					],
+					[
+						-62.838916015624996,
+						17.339257812499994
+					],
+					[
+						-62.84047851562499,
+						17.347070312499994
+					],
+					[
+						-62.83940429687499,
+						17.36533203124999
+					],
+					[
+						-62.82705078124999,
+						17.386425781249997
+					],
+					[
+						-62.794628906250004,
+						17.402587890625
+					],
+					[
+						-62.71372070312499,
+						17.353271484375
+					],
+					[
+						-62.67578125,
+						17.290917968749994
+					],
+					[
+						-62.640527343749994,
+						17.26230468749999
+					],
+					[
+						-62.63066406249999,
+						17.239990234375
+					]
+				]
+			]
+		]
+	},
+	"properties": {
+		"featurecla": "Admin-0 country",
+		"scalerank": 3,
+		"LABELRANK": 6,
+		"SOVEREIGNT": "Saint Kitts and Nevis",
+		"SOV_A3": "KNA",
+		"ADM0_DIF": 0,
+		"LEVEL": 2,
+		"TYPE": "Sovereign country",
+		"ADMIN": "Saint Kitts and Nevis",
+		"ADM0_A3": "KNA",
+		"GEOU_DIF": 0,
+		"GEOUNIT": "Saint Kitts and Nevis",
+		"GU_A3": "KNA",
+		"SU_DIF": 0,
+		"SUBUNIT": "Saint Kitts and Nevis",
+		"SU_A3": "KNA",
+		"BRK_DIFF": 0,
+		"NAME": "St. Kitts and Nevis",
+		"NAME_LONG": "Saint Kitts and Nevis",
+		"BRK_A3": "KNA",
+		"BRK_NAME": "Saint Kitts and Nevis",
+		"BRK_GROUP": "",
+		"ABBREV": "St.K.N.",
+		"POSTAL": "KN",
+		"FORMAL_EN": "Federation of Saint Kitts and Nevis",
+		"FORMAL_FR": "",
+		"NAME_CIAWF": "Saint Kitts and Nevis",
+		"NOTE_ADM0": "",
+		"NOTE_BRK": "",
+		"NAME_SORT": "St. Kitts and Nevis",
+		"NAME_ALT": "",
+		"MAPCOLOR7": 1,
+		"MAPCOLOR8": 4,
+		"MAPCOLOR9": 1,
+		"MAPCOLOR13": 8,
+		"POP_EST": 52715,
+		"POP_RANK": 8,
+		"GDP_MD_EST": 1427,
+		"POP_YEAR": 2017,
+		"LASTCENSUS": 2011,
+		"GDP_YEAR": 2016,
+		"ECONOMY": "6. Developing region",
+		"INCOME_GRP": "2. High income: nonOECD",
+		"WIKIPEDIA": -99,
+		"FIPS_10_": "SC",
+		"ISO_A2": "KN",
+		"ISO_A3": "KNA",
+		"ISO_A3_EH": "KNA",
+		"ISO_N3": "659",
+		"UN_A3": "659",
+		"WB_A2": "KN",
+		"WB_A3": "KNA",
+		"WOE_ID": 23424940,
+		"WOE_ID_EH": 23424940,
+		"WOE_NOTE": "Exact WOE match as country",
+		"ADM0_A3_IS": "KNA",
+		"ADM0_A3_US": "KNA",
+		"ADM0_A3_UN": -99,
+		"ADM0_A3_WB": -99,
+		"CONTINENT": "North America",
+		"REGION_UN": "Americas",
+		"SUBREGION": "Caribbean",
+		"REGION_WB": "Latin America & Caribbean",
+		"NAME_LEN": 19,
+		"LONG_LEN": 21,
+		"ABBREV_LEN": 7,
+		"TINY": 4,
+		"HOMEPART": 1,
+		"MIN_ZOOM": 0,
+		"MIN_LABEL": 5,
+		"MAX_LABEL": 10,
+		"NE_ID": 1159320983,
+		"WIKIDATAID": "Q763",
+		"NAME_AR": "سانت كيتس ونيفيس",
+		"NAME_BN": "সেন্ট কিট্‌স ও নেভিস",
+		"NAME_DE": "St. Kitts und Nevis",
+		"NAME_EN": "Saint Kitts and Nevis",
+		"NAME_ES": "San Cristóbal y Nieves",
+		"NAME_FR": "Saint-Christophe-et-Niévès",
+		"NAME_EL": "Άγιος Χριστόφορος και Νέβις",
+		"NAME_HI": "सन्त किट्स और नेविस",
+		"NAME_HU": "Saint Kitts és Nevis",
+		"NAME_ID": "Saint Kitts dan Nevis",
+		"NAME_IT": "Saint Kitts e Nevis",
+		"NAME_JA": "セントクリストファー・ネイビス",
+		"NAME_KO": "세인트키츠 네비스",
+		"NAME_NL": "Saint Kitts en Nevis",
+		"NAME_PL": "Saint Kitts i Nevis",
+		"NAME_PT": "São Cristóvão e Nevis",
+		"NAME_RU": "Сент-Китс и Невис",
+		"NAME_SV": "Saint Kitts och Nevis",
+		"NAME_TR": "Saint Kitts ve Nevis",
+		"NAME_VI": "Saint Kitts và Nevis",
+		"NAME_ZH": "聖克里斯多福與尼維斯"
+	}
+}
