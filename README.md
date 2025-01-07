@@ -1,4 +1,4 @@
-# @nrd/fua.resource.universe.country
+# @fua/resource.universe.country
 
 - **Model:** [`countries.ttl`](data/countries.ttl)
 - **Source:** [`countries.csv`](data/countries.csv),
